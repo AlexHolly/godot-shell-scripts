@@ -1,7 +1,5 @@
 #!/bin/sh
 
-git pull upstream2 master
-
 scons platform=x11
 scons platform=x11 tools=no target=release_debug bits=64
 scons platform=x11 tools=no target=release bits=64
