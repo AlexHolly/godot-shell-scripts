@@ -2,6 +2,10 @@
 
 For more details see http://docs.godotengine.org/en/latest/reference/_compiling.html
 
+Check that the script you want to use has +x
+Execute the script with sudo if any rights are missing.
+Make sure to execute the script vom a terminal so you can see what's going on.
+
 ## build.sh
 
   Export a project, put this in the project folder. It will eport your linux project to ../exports/projectname
@@ -27,4 +31,11 @@ For more details see http://docs.godotengine.org/en/latest/reference/_compiling.
   
 ## debug.sh
 
-  TODO
+  This script starts gdb for your current project, so put this script in the project folder you want to debug.
+  Make sure you executed "update-godot.sh" first to enable the "godot -h" commands.
+
+  1.run
+  2.bt
+  3.quit
+
+  
