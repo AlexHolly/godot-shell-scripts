@@ -18,8 +18,8 @@ Make sure to execute the script vom a terminal so you can see what's going on.
 
 ## update-godot.sh
 
-  This script will pull from repo and build the godot engone for linux. It also builds the templates for linux and windows and puts them to the correct godot cache templates folder.
-  It will also add godot as global script so that you can use "godot -h" commands.
+  This script will build the godot engine for linux. It also builds the templates for linux and windows and puts them to the correct godot cache templates folder.
+  It will add godot as global script so that you can use "godot -h" commands.
   
   1.Place this script inside your cloned godot folder.
 
