@@ -23,7 +23,9 @@ Make sure to execute the script vom a terminal so you can see what's going on.
   
   1.Place this script inside your cloned godot folder.
 
-  2.Update the git pull command.
+  2.Update your godot repo "git pull".
+  
+  3.Run the script
   
   
 ## update-docs.sh
