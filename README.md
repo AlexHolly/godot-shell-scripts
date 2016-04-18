@@ -16,6 +16,7 @@ For more details see http://docs.godotengine.org/en/latest/reference/_compiling.
   It will also add godot as global script so that you can use "godot -h" commands.
   
   1.Place this script inside your cloned godot folder.
+
   2.Update the git pull command.
   
   
