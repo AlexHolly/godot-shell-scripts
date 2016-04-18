@@ -3,7 +3,9 @@
 For more details see http://docs.godotengine.org/en/latest/reference/_compiling.html
 
 Check that the script you want to use has +x
+
 Execute the script with sudo if any rights are missing.
+
 Make sure to execute the script vom a terminal so you can see what's going on.
 
 ## build.sh
@@ -35,7 +37,9 @@ Make sure to execute the script vom a terminal so you can see what's going on.
   Make sure you executed "update-godot.sh" first to enable the "godot -h" commands.
 
   1.run
+  
   2.bt
+  
   3.quit
 
   
